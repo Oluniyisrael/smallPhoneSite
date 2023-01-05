@@ -1,0 +1,22 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.videoPage{
+    background-color: #CA82CA;
+    color: #304C89;
+}
+.oyiza{
+    width: 100%;
+    height: 30px;
+    background:url(/images/Oyiza.png) no-repeat;
+    background-size: 100% 100%;
+}
+.videoSection{
+    padding:10px 0 ;
+
+}
+.vidThumb{
+    width: 100px;
+}
