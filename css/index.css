@@ -7,6 +7,25 @@ html,body{
     background-color: #CA82CA;
     color: #304C89;
 }
+.home ul li{
+    list-style-type: none;
+    list-style: none;
+}
+.home ul{
+    margin: 0;
+    padding: 0;
+}
+a:link{
+    color: blanchedalmond;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 100;
+    
+}
 .oyiza{
     width: 100%;
     height: 30px;
@@ -16,4 +35,6 @@ html,body{
 .heading{
     margin: 0;
     text-align: center;
+    font-family: tahoma;
+    font-size: smaller;
 }

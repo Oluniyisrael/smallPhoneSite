@@ -13,3 +13,7 @@ html,body{
     margin: 0;
     text-align: center;
 }
+.directoryContainer{
+    background-color: #CA82CA;
+    color: #304C89;
+}
