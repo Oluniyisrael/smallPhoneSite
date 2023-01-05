@@ -7,13 +7,15 @@ html,body{
     background-color: #CA82CA;
     color: #304C89;
 }
-.home ul li{
-    list-style-type: none;
-    list-style: none;
+.home ol li{
+    list-style-type:decimal;
+    list-style: decimal;
+    margin: 0;
 }
 .home ul{
     margin: 0;
     padding: 0;
+    margin-top: 20px;
 }
 a:link{
     color: blanchedalmond;
