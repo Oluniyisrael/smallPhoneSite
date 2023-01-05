@@ -1,0 +1,15 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.oyiza{
+    width: 100%;
+    height: 30px;
+    background:url(/images/Oyiza.png) no-repeat;
+    background-size: 100% 100%;
+}
+.heading{
+    margin: 0;
+    text-align: center;
+}
