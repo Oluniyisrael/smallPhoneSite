@@ -8,3 +8,7 @@ html,body{
     background:url(/images/Oyiza.png) no-repeat;
     background-size: 100% 100%;
 }
+.heading{
+    margin: 0;
+    text-align: center;
+}
