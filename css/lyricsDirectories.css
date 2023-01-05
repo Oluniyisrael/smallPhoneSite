@@ -17,3 +17,7 @@ html,body{
     background-color: #CA82CA;
     color: #304C89;
 }
+.lyrics{
+    color: black;
+    font-style: italic;
+}
